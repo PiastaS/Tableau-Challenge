@@ -1,5 +1,5 @@
 
-# Tableau_CitiBike
+# Tableau CITIBike
 
 Link to Tableau Public: https://public.tableau.com/app/profile/sviat4270/viz/CITIBikeDashboard_16469748807840/CityMap
 
